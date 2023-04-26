@@ -30,7 +30,7 @@
 
 		if ($bmi < 18.5) {
 		    echo "kurus.";
-		} elseif ($bmi >= 18.5 && $bmi < 25) {
+		} elseif ($bmi >= 18.5 && $bmi <= 25) {
 		    echo "normal.";
 		} else{
 		    echo "gemuk.";
