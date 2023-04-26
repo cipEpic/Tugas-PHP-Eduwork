@@ -5,7 +5,7 @@
 </head>
 <body>
     <form method="post">
-        <label>Inputkan nilai Anda:</label>
+        <label>Input nilai:</label>
         <input type="number" name="nilai" required>
         <button type="submit">Hitung</button>
     </form>
