@@ -1,6 +1,6 @@
 <?php
 // input nilai
-$nilai = 85;
+$nilai = 82;
 
 // hitung kategori
 switch(true) {
